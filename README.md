@@ -24,6 +24,7 @@
 -------------------------------
 ## DISPLAY DATA
 -------------------------------
+Follow App.js file & Codes. Also visit firebase.google.com documentation, Build > Authentication > ...
 
 --------------------------------
  ##   ADD A NEW SIGN IN METHOD
